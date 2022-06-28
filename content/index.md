@@ -20,7 +20,7 @@ There should be whitespace between paragraphs.
 // PHP code
 Cecil::create(
     [
-        'title'   => "My website",
+        'title'   => "My web  fdg site",
         'baseurl' => 'http://localhost:8000/',
     ]
 )->build();
