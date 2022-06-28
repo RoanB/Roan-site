@@ -2,9 +2,11 @@
 title: Home
 
 ---
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Ik wil 
 
 [Link to another page](another-page.md).
+
+[New link ](new_link.md)
 
 There should be whitespace between paragraphs.
 
@@ -14,7 +16,7 @@ There should be whitespace between paragraphs.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Extra test sf qs 
+### Extra test sf qs
 
 ```php
 // PHP code
